@@ -1,0 +1,16 @@
+1. The web is different from the internet being that the internet is a general term for information being shared on websites (the web) 
+by way of the internet as a whole. That the internet is made up of websites of which information is shared through the web. 
+And the internet is the interconnected device platform of which all of these individual webs or webisites are shared through.
+
+
+2. The internet works by the interconnection differenct devices through individual packet networks. Given that any device has access 
+to other websites but the internet as a whole is the connection of these devices to share information which in turn is posted on websites.
+
+
+3. A directory is the term used for a folder where any type of file is stored. As folders can be stored inside other folders. And
+knowing what files are stored in this chain of folders within folders is known as the directory path. 
+
+4. Using VCS file types are mainly beneficial for graphic designers. Specifically because vector based images are not limited to a 
+specifial digital size-known as resolution- which means they can be altered to any size. For example any vector image can be scaled up
+without losing any quality to the image because vectors can calculate pixel size in order for an image to be blown up to a 
+billboard size canvas with out becoming blurry. 
