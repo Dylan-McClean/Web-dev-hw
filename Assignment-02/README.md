@@ -21,4 +21,4 @@ I decided to take this class mainly because I needed to brush up on my coding sk
 
 #### [SCREENSHOT](https://github.com/Dylan-McClean/Web-dev-hw/blob/master/Assignment-02/screenshot.png)
 
-### ![ATOM PROGRESS](./screenshot.png)
+### ![ATOM PROGRESS](screenshot.PNG)
