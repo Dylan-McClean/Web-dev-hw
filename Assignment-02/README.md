@@ -16,3 +16,7 @@ I decided to take this class mainly because I needed to brush up on my coding sk
 </br>
 
 #### [FORGE OF EMPIRES LOGIN](https://us.forgeofempires.com/login)
+
+#### [RESPONSES.TXT](https://github.com/Dylan-McClean/Web-dev-hw/blob/master/Assignment-02/responses.txt)
+
+### ![GitHub logo with relative URL](screenshot.png)
