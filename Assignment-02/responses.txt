@@ -1,0 +1,24 @@
+1. 	Anything received or sent on the internet is broken down and stored into what are known as packets. 
+These packets are essentially “packages” or chunks of information that make up the whole of any digital file.
+and when these packets reach their destination they are first accounted for and then used to reassemble this file
+back into its whole self. 
+
+
+2.	The DNS or the domain name system is the “.com” portion of a URL that is typed into the address bar.
+For the computers internet browser to be able to reach the website an IP address is needed as IP addresses are assigned to 
+any websites domain name. When the IP address is known, the internet browser can locate and reach the website to display it. 
+
+
+
+3.	A cookie is essentially an identification card used for an internet browser to remember information. 
+For example, when a person logs into an account online then closes the browser without deleting the saved cookie data and comes
+back later the information is remembered because of the cookie. And therefore, they are automatically logged back into that account. 
+As cookies are given an assigned number for the internet browser to use this cookie to help identify the previous login information. 
+
+
+
+4.	The three basic parts of a URL are the protocol, the domain, and the path. 
+The protocol is used to establish how the internet browser will communicate with the website.
+The domain is the whole typed “.com” portion that is entered in the address bar in order locate the website. 
+And the path is the extension of the typed “.com” portion. As followed by forward slash characters used to reach different
+directories which essentially are the URL’s way to navigate to these different directories or pages. 
