@@ -19,6 +19,6 @@ I decided to take this class mainly because I needed to brush up on my coding sk
 
 #### [RESPONSES.TXT](https://github.com/Dylan-McClean/Web-dev-hw/blob/master/Assignment-02/responses.txt)
 
-#### [SCREENSHOT](https://github.com/Dylan-McClean/Web-dev-hw/blob/master/Assignment-02/screenshot.png)
+#### [SCREENSHOT](https://github.com/Dylan-McClean/Web-dev-hw/blob/master/Assignment-02/screenshot.PNG)
 
 ### ![ATOM PROGRESS](screenshot.PNG)
