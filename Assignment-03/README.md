@@ -17,4 +17,4 @@
 
 
 
-![ SCREENSHOT OF MY FIRST WEBPAGE ](images/screenshot.PNG)
+![ SCREENSHOT OF MY FIRST WEBPAGE ](Images/screenshot.PNG)
