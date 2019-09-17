@@ -16,6 +16,5 @@
 2. A markup of language is the special way in which a computer reads characters and symbols to display text and other various design features. The most commonly one used is html. Standing for Hypertext markup language this is the basis for all webpages and web development to take place. It's the most basic and easy to understand for amatuer coders and web developers.
 
 
-<br></br>
 
 ![ SCREENSHOT OF MY FIRST WEBPAGE ](images/screenshot.PNG)
