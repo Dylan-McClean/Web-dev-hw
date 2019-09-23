@@ -23,4 +23,4 @@
 
 <br>
 
-![SCREENSHOT OF ASSIGNMENT 4 PROGRESS](...Images/screenshot.PNG)
+![SCREENSHOT OF ASSIGNMENT 4 PROGRESS](screenshot.PNG)
