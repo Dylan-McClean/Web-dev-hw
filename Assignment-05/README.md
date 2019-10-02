@@ -45,7 +45,7 @@ The various types of characteristics you can give words such as bold, italic, ab
 
 <li>
 
-My work cycle for this week was mainly focusing on research for the various tags on semantic markups. Then applying and messing around with these to create a well thought out design for my recipe website. 
+My work cycle for this week was mainly focusing on research for the various tags on semantic markups. Then applying and messing around with these to create a well thought out design for my recipe website.
 
 </li>
 
@@ -60,4 +60,4 @@ My work cycle for this week was mainly focusing on research for the various tags
 
 <hr>
 
-![SCREENSHOT OF ASSIGNMENT 5 PROGRESS](Images/screenshot.png).
+![SCREENSHOT OF ASSIGNMENT 5 PROGRESS](Images/screenshot.PNG).
