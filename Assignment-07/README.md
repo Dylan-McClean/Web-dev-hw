@@ -42,4 +42,4 @@
 <br />
 
 
-![SCREENSHOT OF ASSIGNMENT 07 PROGRESS](./Images/screenshot.png)
+![SCREENSHOT OF ASSIGNMENT 07 PROGRESS](./Images/screenshot.PNG)
